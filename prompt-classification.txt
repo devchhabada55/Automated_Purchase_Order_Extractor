@@ -1,0 +1,45 @@
+Classify the following email as PO or Not PO based on the provided information:
+
+- Subject: {subject}  
+- Body: {body}  
+- Filename: {filename}  
+- Attachment Link: {attachment_link}  
+- Attachment Information:{attachment_info}  
+
+---http://localhost:11434/v1/chat/completions
+
+Definition of PO:
+An email is classified as PO if it contains information related to a Purchase Order (a formal request to purchase goods or services). A Purchase Order typically includes at least some of the following details:  
+- Customer PO Number  
+- Item Name(s)  
+- Quantity  
+- Rate per Unit  
+- Unit of Measurement  
+- Delivery Dates  
+- Customer Name  
+
+Examples of Relevant Keywords:
+- "Purchase Order"  
+- "PO Number"  
+- "Order Confirmation"  
+- "Item Quantity"  
+- "Delivery Schedule"  
+
+Instructions for Classification:
+1. Analyze the Subject and Body:
+   - Look for keywords or phrases indicating a Purchase Order.
+   - Check for mentions of specific items, quantities, delivery details, or rates.
+
+2. Examine Attachments (if present):
+   - Determine if the attachment contains any PO-related information (e.g., PO Number, item details).
+   - Prioritize files labeled with terms like "PO" or "Order."
+
+3. Contextual Relevance:
+   - If the email references a PO but lacks essential details, classify it as Not PO.
+   - If sufficient PO-related information is found in the email body or attachments, classify it as PO.
+
+Classification Output:
+- PO: If the email contains PO-related information or references a formal request for items.  
+- Not PO: If the email lacks sufficient details or relevance to a Purchase Order.
+
+

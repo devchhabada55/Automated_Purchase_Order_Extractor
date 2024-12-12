@@ -1,0 +1,8 @@
+2024-12-12 15:24:31,635 - INFO: Starting email extraction from 2024-11-30 to 2024-12-02
+2024-12-12 15:24:31,671 - DEBUG: Making request: POST https://oauth2.googleapis.com/token
+2024-12-12 15:24:31,680 - DEBUG: Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-12-12 15:24:31,999 - DEBUG: https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 401 None
+2024-12-12 15:24:32,011 - INFO: Email extraction completed successfully
+2024-12-12 15:24:32,011 - INFO: Starting email classification using openai
+2024-12-12 15:24:32,012 - ERROR: File not found: emails_data-testcase.xlsx
+2024-12-12 15:24:32,013 - ERROR: Pipeline execution failed: Invalid input file type: unknown. Expected Excel file.

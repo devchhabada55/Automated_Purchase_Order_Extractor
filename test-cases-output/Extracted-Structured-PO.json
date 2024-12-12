@@ -1,0 +1,47 @@
+[
+    {
+        "Email Sender": "N/A",
+        "Customer PO Number": "PO23008082",
+        "Item Name": "[{'Sr': '1', 'Description': 'M3 X 17L X 0.5P HALF THREADED SCREW WITH WASHER WITH CROME NOS'}, {'Sr': '2', 'Description': 'M3X6.4\\xadSCREW WASHER ASSY\\xad(BORON STEEL/EN8)FOR GENX CONTACT B NOS'}]",
+        "Quantity": "30000, 200000",
+        "Rate per unit": "42, 43",
+        "Unit of measurement": "N/A",
+        "Item wise Delivery Dates": "22/03/2023, 15/03/2023",
+        "Customer Name": "ESBEE ELECTROTECH LLP",
+        "Customer details": "Address: S­42/1, S­BLOCK,BHOSARI, PUNE,411026,MAHARASHTRA,INDIA., GSTIN No: 27AAAFE4379A1ZQ",
+        "Applicable Taxes": "IGST 18.00%",
+        "Terms of Payment": "90 DAYS FROM DATE OF RECEIPT",
+        "Discount": "N/A",
+        "Other remarks/instructions": "[{'Note': 'PLEASE ARRANGE TO SUPPLY THE FOLLOWING IN ACCORDANCE WITH THE TERMS & CONDITIONS SPECIFIED BELOWPage:1 of 1'}, {'Note': 'Send material PDIR & Test & RoHS Certificate.'}]"
+    },
+    {
+        "Email Sender": "N/A",
+        "Customer PO Number": "60",
+        "Item Name": "Screw Assy. MO Coil",
+        "Quantity": "50000 Nos.",
+        "Rate per unit": "0.968 Rs.",
+        "Unit of measurement": "Nos.",
+        "Item wise Delivery Dates": "urgent",
+        "Customer Name": "Hera pheri trading co",
+        "Customer details": "M/s. xyz pvt ltd\nUnit No. 3,4,5,6,9 Aadharshila Ind. Estate\nPenkarpada near Raju Ind. Estate,\nMira Road (East) , Thane\n308, K.K. Gupta Industrial Estate",
+        "Applicable Taxes": "GST: 27ABCDEFGHIJKLM",
+        "Terms of Payment": "Payment Terms - As decided by Schneider Electric India.",
+        "Discount": "N/A",
+        "Other remarks/instructions": "Check Visual and Dimensional Parameters at your end as per given Inspection Standards., Mention Purchase Order Number and CAT Number on each Delivery Challan and Invoice., Attach a Tag on each Packing Unit giving your Name, CAT Number, Quantity and Date of Manufacturing., For Expediting Payments, Bills submitted against this Purchase Order should contain Purchase Order Number, Date, CAT Number and Vendor Code., Purchase OREDR NO. & DATE, VENDOR CODE , ITEM CODE, All Lot's Have to be accompanied by proper Challan, Original Transport ( Modvat) Copy and Required Inspection / Test Certificate., REQUIRED INSPECTION / TEST CERTIFICATE, Inspection / Test Certificate is a Must with Every Lot without which Material will Not be Accepted., Ensure all Deliverie's Strictly against Schedules. Excess Quantity will be Retuened on Your Account and Risk., You are requested to provide your Income Tax Permanent Account Number ( PAN ) with the Ward / Circle Immediately., Duty and Taxes as Applicable at the time of Dispatch., GST 18 %, Payment Terms - As decided by Schneider Electric India., Bills should be send to our Factory Address only. Material - FOR Factory., Acknowledge This Purchase Order."
+    },
+    {
+        "Email Sender": "N/A",
+        "Customer PO Number": "24250341",
+        "Item Name": "ST38061 Travalent screw washer",
+        "Quantity": "300000",
+        "Rate per unit": "0.98",
+        "Unit of measurement": "Nos",
+        "Item wise Delivery Dates": "[04/12, 08/12, 12/12, 18/12, 24/12]",
+        "Customer Name": "Vaishnav Fastners",
+        "Customer details": "GSTIN No.: 27AAFPM0753P1ZB, Address: Gala No.25, Blue Rose Ind. Est,Opp Magathane PO",
+        "Applicable Taxes": "CGST SGST IGST UTGST",
+        "Terms of Payment": "75 DAY'S AFTER RECEIPT OF MATERIAL",
+        "Discount": "N/A",
+        "Other remarks/instructions": "PLEASE SUPPLY THE FOLLOWING ITEMS TO CONDITIONS & AS PER SCHEDULE STRICTLY AS FOLLOWS., REMARK : STD PACKING= 1 BAG X20000"
+    }
+]
