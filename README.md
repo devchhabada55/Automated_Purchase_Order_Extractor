@@ -92,15 +92,6 @@ python pipeline.py --start-date 2024-11-30 --end-date 2024-12-02
 - `po_extracted-testcase.json`: Extracted Purchase Order details
 - `po_extraction_pipeline.log`: Detailed execution logs
 
-## 🔬 Experimentation Results
-### Testing and Model Evaluation
-- Tested with a dataset of 500 real-world emails, achieving:
-  - **GPT-4:** 98% accuracy
-  - **GPT-3.5:** 95% accuracy
-  - **Llama 2 (fine-tuned):** 92% accuracy
-  - **Flan-T5 (fine-tuned):** 90% accuracy
-- Metrics included precision, recall, and F1 score for PO classification.
-
 ### Deployment Considerations
 - **OpenAI Models:** Seamless integration, higher costs, no fine-tuning required.
 - **Open Source Models:** Cost-effective for high-volume processing, requires fine-tuning for optimal performance.
