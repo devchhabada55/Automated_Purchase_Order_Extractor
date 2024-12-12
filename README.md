@@ -19,7 +19,7 @@ This automated pipeline extracts, classifies, and processes purchase order (PO) 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/devchhabada55/po-extraction-pipeline.git
+[git clone https://github.com/devchhabada55/po-extraction-pipeline.git](https://github.com/devchhabada55/Automated_Purchase_Order_Extractor.git)
 cd po-extraction-pipeline
 ```
 
