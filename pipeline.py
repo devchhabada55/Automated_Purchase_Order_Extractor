@@ -116,7 +116,7 @@ def run_pipeline(
             classify_emails_in_file(
                 input_file, 
                 output_classified_file, 
-                os.environ.get("OPENAI_API_KEY", "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")
+                os.environ.get("OPENAI_API_KEY", "enter-your-key")
             )
         else:
             raise ValueError(f"Unsupported classification model: {classification_model}")
