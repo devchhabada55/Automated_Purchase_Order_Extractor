@@ -19,7 +19,7 @@ This automated pipeline extracts, classifies, and processes purchase order (PO) 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/po-extraction-pipeline.git
+git clone https://github.com/devchhabada55/po-extraction-pipeline.git
 cd po-extraction-pipeline
 ```
 
@@ -70,7 +70,7 @@ python pipeline.py --start-date 2024-11-30 --end-date 2024-12-02
 ### Alternative Models Tried:
 - **OpenAI GPT-3.5:** Offers a cost-effective solution with good classification performance, though slightly less accurate compared to GPT-4 for edge cases.
 - **Open Source Models:** 
-  - **Llama 2 (Meta):** Fine-tuned for text classification tasks. Provides comparable performance to OpenAI models for email classification when properly fine-tuned.
+  - **Llama 3 (Meta):** Fine-tuned for text classification tasks. Provides comparable performance to OpenAI models for email classification when properly fine-tuned.
   - **Flan-T5 (Google):** Efficient for small-scale deployments with minimal resource usage.
   - **Hugging Face Models:** Experimented with DistilBERT and Roberta-based models. While they required fine-tuning, they showed promise for budget-friendly setups.
 
